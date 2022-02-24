@@ -2,5 +2,5 @@
 
 
 ### Todos 
- - [ ] Read Files from folder
- - [ ] Write Files to folder
+ - [X] Read Files from folder
+ - [X] Write Files to folder
